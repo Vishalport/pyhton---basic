@@ -1,5 +1,5 @@
 # pyhton---basic
->>>to read/count the number of word in the page [page may be web page pdf page etc.]
+to read/count the number of word in the page [page may be web page pdf page etc.]
 
 ####  -regarding (deictinory.py)
 >>
@@ -9,4 +9,4 @@
 
 #### -regarding (deictinory.rpy)
 >>
-#input may be copy/pest of web-page/ pdf etc
+input may be copy/pest of web-page/ pdf etc
