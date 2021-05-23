@@ -1,4 +1,4 @@
-zot = 2+2, "vishal"
+zot = 2+2, "chak"
 list = [12,111,zot]
 item = input("Enter the item to the list : ")
 list.append(item)
